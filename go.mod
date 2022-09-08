@@ -1,3 +1,3 @@
-module go.biville.net/testPackage.v1
+module github.com/fbiville/testPackage
 
 go 1.19
